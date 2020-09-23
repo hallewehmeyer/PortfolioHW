@@ -1,0 +1,26 @@
+.h4 {
+    color: black;
+    font-weight: 200;
+    font-size: 30px;
+}
+.custom-control-label{
+    color: white;
+    font-size: medium;
+}
+.text-center{
+    margin-top: 5%;
+    margin-right: 30%;
+    margin-bottom: 5%;
+    float: left;
+    clear: both;
+}
+.bg{
+    background-color: palevioletred;
+    
+}
+.subject{
+    color: black;
+    font-size: 25px;
+    font-weight: lighter;
+    
+}
