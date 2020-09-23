@@ -1,0 +1,29 @@
+.jumbotron {
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    margin-top: 5%;
+    margin-bottom: 20%;
+    margin-left: 10%;
+    margin-right: 60%;
+    background-position: 25%;
+    background-repeat: no-repeat;
+    background-size: contain;
+    color: black;
+    background-color: palevioletred;
+    border-style: solid;
+    border-color: black;
+    border: 10px;
+    float: left;
+
+}
+.img-1 {
+    float: left;
+    clear: both;
+    height: 60%;
+    width: 35%;
+    margin-top: 12px;
+    margin-right: 20px;
+
+}
